@@ -1,16 +1,2 @@
 nginx
-anapsix/alpine-java:8_server-jre_unlimited
-ypptec/nascab
-xhofe/alist
-vaultwarden/server
-tznb/twonav
-halohub/halo:2.18.0
-mysql:5.7.9
-minio/minio
-linuxserver/qbittorrent
-linuxserver/jackett
-itushan/mtab
-halcyonazure/lsky-pro-docker
-gitlab/gitlab-ce
-diluka/nas-tools
-allanpk716/chinesesubfinder
+sonatype/nexus3
