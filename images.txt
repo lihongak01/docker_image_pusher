@@ -1,2 +1,2 @@
 nginx
-sonatype/nexus3
+gitlab/gitlab-ce
