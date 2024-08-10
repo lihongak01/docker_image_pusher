@@ -1,2 +1,2 @@
 nginx
-gitlab/gitlab-ce
+registry.gitlab.cn/omnibus/gitlab-jh:latest
