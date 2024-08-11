@@ -1,2 +1,2 @@
 nginx
-registry.gitlab.cn/omnibus/gitlab-jh:latest
+quay.io/minio/minio
