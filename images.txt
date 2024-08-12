@@ -1,2 +1,2 @@
 nginx
-quay.io/minio/minio
+mysql:5.7.9
