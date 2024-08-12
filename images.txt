@@ -1,2 +1,2 @@
 nginx
-mysql:5.7.9
+mysql:5.7.44
