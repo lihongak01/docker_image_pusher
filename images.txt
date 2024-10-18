@@ -1,11 +1,1 @@
-ypptec/nascab
-xhofe/alist
-mysql:5.7.9
-mysql:8.1.0
-minio/minio
-halcyonazure/lsky-pro-docker
-gitlab/gitlab-ce
-vaultwarden/server
-itushan/mtab
-tznb/twonav
-registry.fit2cloud.com/halo/halo:2.18
+ypptec/nascab:3.5.1
