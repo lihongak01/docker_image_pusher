@@ -1,2 +1,5 @@
 clickhouse/clickhouse-server:26.3.12.3
 eclipse-temurin:17.0.19_10-jre-alpine-3.23
+vaultwarden/server:latest
+tznb/twonav:latest
+mysql:8.1.0
