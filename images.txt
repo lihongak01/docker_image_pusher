@@ -3,3 +3,4 @@ eclipse-temurin:17.0.19_10-jre-alpine-3.23
 vaultwarden/server:latest
 tznb/twonav:latest
 mysql:8.1.0
+clickhouse/clickhouse-server:24.7.3
