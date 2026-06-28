@@ -4,3 +4,5 @@ vaultwarden/server:latest
 tznb/twonav:latest
 mysql:8.1.0
 clickhouse/clickhouse-server:24.7.3
+apache/seatunnel:2.3.13
+apache/seatunnel:2.3.11
